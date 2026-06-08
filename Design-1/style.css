@@ -9,7 +9,12 @@
 .container {
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(135deg, rgb(218, 93, 114), rgb(29, 29, 95), purple);
+  background: linear-gradient(
+    135deg,
+    rgb(218, 93, 114),
+    rgb(29, 29, 95),
+    purple
+  );
   max-width: 1100px;
   margin: auto;
   padding: 10px 20px;
@@ -28,13 +33,11 @@
 .main {
   width: 100%;
   height: 100%;
-  /* max-width: 1000px; */
   margin: 10px auto;
   display: flex;
   gap: 20px;
   justify-content: space-between;
   padding: 10px;
-  /* overflow: hidden; */
   flex-wrap: wrap;
 }
 
@@ -57,8 +60,6 @@
   border-radius: 20px;
   object-fit: cover;
   border: 3px solid white;
-
-  /* overflow: hidden; */
 }
 
 .card button {
