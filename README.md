@@ -10,11 +10,6 @@
 
 ---
 
-### 3. Design 3 - Shinsei Village Landing Page
-![Design 2](./screenshots/A3%20-%203.png)
-
----
-
 This project was completed as part of Assignment Two, focused on strengthening CSS layout fundamentals by recreating real-world UI designs using only HTML and CSS.
 
 ## Assignment Objective
