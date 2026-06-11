@@ -14,7 +14,7 @@ This project was completed as part of Assignment Two, focused on strengthening C
 
 ## Assignment Objective
 
-Recreate any three provided designs as closely as possible while practicing:
+Recreate any two provided designs as closely as possible while practicing:
 
 - display: flex
 - position: relative
